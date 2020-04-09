@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name = "nav_menu_settings">Settings</string>
+    <string name = "nav_menu_display">Display text</string>
+    <string name = "nav_header1">Week 11 exercises</string>
+    <string name = "nav_header2">Object orientated programming</string>
+    <string name = "display_text">Display text</string>
+    <string name = "set_text">Set text</string>
+</resources>

@@ -1,3 +1,21 @@
 <resources>
     <string name="app_name">week-11</string>
+    <string name = "navigation_drawer_open">Open navigation drawer</string>
+    <string name = "navigation_drawer_close">Close navigation drawer</string>
+    <string name = "nav_menu_settings">Asetukset</string>
+    <string name = "nav_menu_display">Syötetty teksti</string>
+    <string name = "nav_header1">Viikko 11 tehtävät</string>
+    <string name = "nav_header2">Olio ohjelmointi</string>
+    <string name = "display_text">Syötetty teksti</string>
+    <string name = "set_text">Syötä teksti</string>
+    <string-array name="planets_array">
+        <item>Mercury</item>
+        <item>Venus</item>
+        <item>Earth</item>
+        <item>Mars</item>
+        <item>Jupiter</item>
+        <item>Saturn</item>
+        <item>Uranus</item>
+        <item>Neptune</item>
+    </string-array>
 </resources>

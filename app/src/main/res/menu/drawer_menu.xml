@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation:view">
+
+    <group android:checkableBehavior="single">
+        <item android:id="@+id/nav_message"
+                android:icon="@drawable/ic_android_black_24dp"
+                android:title="@string/nav_menu_display"></item>
+        <item android:id="@+id/nav_settings"
+            android:icon="@drawable/ic_settings_black_24dp"
+            android:title="@string/nav_menu_settings"></item>
+    </group>
+
+    <item android:title="Language">
+        <menu>
+            <item
+                android:id="@+id/nav_en"
+                android:icon="@drawable/ic_translate_black_24dp"
+                android:title="EN" />
+            <item
+                android:id="@+id/nav_fi"
+                android:icon="@drawable/ic_translate_red_24dp"
+                android:title="FI" />
+        </menu>
+    </item>
+
+
+</menu>
